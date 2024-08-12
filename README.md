@@ -1,4 +1,4 @@
-Custom Decks System for Gnomecode Tower Defense Tutorial
+Custom Skins System for Gnomecode Tower Defense Tutorial
 
 Please provide Credit to me
 This version is marat's version but i actually made it work, marat failed at a simple task
