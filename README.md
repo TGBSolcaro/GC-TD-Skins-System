@@ -1,6 +1,6 @@
 Custom Skins System for Gnomecode Tower Defense Tutorial
 
-Please provide Credit to me
+Please provide Credit to me (And Marat i guess..)
 This version is marat's version but i actually made it work, marat failed at a simple task
 
 Any issues? message me with my discord 'null_unknown'
